@@ -7,7 +7,9 @@
 *.dylib
 .vscode
 .cph
+*.bin
 *.class
+CPP/Basic Maths/DeleteBinFiles.cpp
 # Ignore generated build directories
 build/
 bin/
